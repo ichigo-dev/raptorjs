@@ -1,0 +1,14 @@
+{
+	"name": "raptor.js",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/raptor.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^5.1.6"
+	}
+}
